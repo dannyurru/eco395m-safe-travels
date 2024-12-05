@@ -1,1 +1,3 @@
 pip install streamlit
+pip install bs4
+pip install pprint
